@@ -1,4 +1,5 @@
-<img src="https://hudi.apache.org/assets/images/hudi-logo-medium.png" alt="Hudi logo" height="100px" align="left" />
+
+<img src="https://hudi.apache.org/assets/images/hudi-logo-medium.png" alt="Hudi logo" height="100px" align="center" />
 
 汇总Apache Hudi的相关资源，包括官方文档、ApacheHudi社区文章、其他厂商的PR等。
 
